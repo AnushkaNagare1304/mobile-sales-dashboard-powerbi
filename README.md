@@ -31,12 +31,12 @@ The dashboard helps identify sales trends, top-performing products, and customer
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](PowerBiDashboard.png)
+- Dashboard: ![Dashboard](PowerBI%20Dashboard.png)
 
 ---
 
 ## 📊 Dataset
-- Source: ![Source Code](MobileSalesData.xlsx)
+- Source: ![Source Code](Mobile%20Sales%20Data.xlsx)
 ---
 
 ## 🎯 Skills Demonstrated
